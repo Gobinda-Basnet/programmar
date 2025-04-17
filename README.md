@@ -1,2 +1,2 @@
 # programmar
-Programmer is my passion.
+Programming is my passion.
